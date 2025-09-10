@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://velosbet77.ramdajs.com/sitemap.xml
